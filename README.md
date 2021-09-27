@@ -1,7 +1,7 @@
 # Image Converter
 ## Lightweight, сonvenient and easy to use image converter tool
 
-![alt texthttps://github.com/kerminator-dev/ImageConverter/blob/main/Screenshots/v1.3.1-3.JPG?raw=true)
+![alt text](https://github.com/kerminator-dev/ImageConverter/blob/main/Screenshots/v1.3.1-3.JPG?raw=true)
 ![alt text](https://github.com/qlulp/ImageFormatConverter/blob/main/Screenshots/v1.3.1-1.JPG?raw=false)
 
 # Overview
