@@ -78,4 +78,4 @@ v1.3.1
 
 ![alt text](https://github.com/qlulp/ImageFormatConverter/blob/main/Screenshots/v1.3.1-1.JPG?raw=true)
 
-*The repository was cloned, because I lost access to qlulp git account:c
+*The repository was cloned, because I lost access to qlulp git account :c
